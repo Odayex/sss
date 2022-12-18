@@ -1,1 +1,24 @@
-# sss
+Domain	
+*.zalando.*
+Critical
+Eligible
+Domain	
+*.zalando-lounge.*
+Critical
+Eligible
+Domain	
+*.zalando-prive.*
+Critical
+Eligible
+Domain	
+*.zalon.*
+Critical
+Eligible
+Domain	
+*.zircle.*
+Critical
+Eligible
+Domain	
+*.zalan.do
+Critical
+Eligible
